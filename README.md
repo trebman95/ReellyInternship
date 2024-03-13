@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Active Directory Home Lab (Adding users w/PowerShell)</h1>
 
 <h2>Description</h2>
 In this Lab, I will walkthrough how I created an Active Directory Home Lab Environment using Oracle Virtual Box. Configuring and running this lab has definitely helped me develop my understanding of how active directory and windows networks work. Adding users with PowerShell and setting up the DHCP server were very interesting task to learn as I know that they will be very essential skills to know while starting off on IT Help Desk.
