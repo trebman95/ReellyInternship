@@ -25,32 +25,47 @@ In this Lab, I will walkthrough how I created an Active Directory Home Lab Envir
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installing Windows Server 2022 and Creating an Administrator account: <br/>
+<img src="https://i.imgur.com/CII5ybK.png" height="80%" width="80%" alt="Administrator Account"/>
+<img src="https://i.imgur.com/6TJinUM.png" height="80%" width="80%" alt="Administrator Account"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change adapters on the network and setting up the IP addressing on the IPv4 of the Internal network:  <br/>
+<img src="https://i.imgur.com/vakD4lK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installing Active Director Domain Services from the Windows Server Manager: <br/>
+<img src="https://i.imgur.com/7qMx93A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Post Deployment Configuration to promote the computer to a domain:  <br/>
+<img src="https://i.imgur.com/iH59Sac.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ss9lA9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating a new user for the organization unit and Domain Admin account:  <br/>
+<img src="https://i.imgur.com/cCWMTG4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iyicbsA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installing routing, remote access, and NAT:  <br/>
+<img src="https://i.imgur.com/GltoQx5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ppNaTWY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up a DHCP server on the Domain Controller and creating a scope on the DHCP of server with an IP Address range:  <br/>
+<img src="https://i.imgur.com/UcCLSQc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4jQrTnw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Adding an IP address to the router and dfficially setting up the DNS Servers:  <br/>
+<img src="https://i.imgur.com/TS9kpes.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0BwwJwU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Source code for the Powershell script from a given zip file to add all accounts into the active directory:  <br/>
+<img src="https://i.imgur.com/kXHbeFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MbiBzLP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
