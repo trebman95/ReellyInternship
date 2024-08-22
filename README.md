@@ -14,8 +14,10 @@ In this project, I will walkthrough my responsibilities as a Software QA Enginee
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Jira</b>
+- <b>Google Docs</b> 
+- <b>TestRail</b> 
+- <b>Chrome DevTools</b>
 
 <h2>Environments Used </h2>
 
