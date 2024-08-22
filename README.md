@@ -22,8 +22,10 @@ In this project, I will walkthrough my responsibilities as a Software QA Enginee
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2022</b> (64bit)
-- <b>Windows 11</b> (64bit)
+- <b>Windows 11</b> (64bit)</b>
+- <b>macOS 12 Monterey</b>
+- <b>Safari Version 5.1.7</b>
+- <b>Chrome version 107.0.5304.87</b>
 
 <h2>Program walk-through:</h2>
 
