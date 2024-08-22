@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab (Adding users w/PowerShell)</h1>
 
 <h2>Description</h2>
-In this Lab, I will walkthrough how I created an Active Directory Home Lab Environment using Oracle Virtual Box. Configuring and running this lab has definitely helped me develop my understanding of how active directory and windows networks work. Adding users with PowerShell and setting up the DHCP server were very interesting task to learn as I know that they will be very essential skills to know while starting off on IT Help Desk.
+In this project, I will walkthrough my responsibilities as a Software QA Engineer for Reelly. Performing functional, UI, smoke and regression testing. Also participating in daily stand-ups and sprint planning using Agile methodologies. Reelly is a web/mobile app that consolidates Dubai developer projects, enabling agents to quickly create personalized property offers and track buyer behavior analytics. Executing test cases and tracking issues in Jira were very interesting task to learn as I know that they will be very essential skills to know while starting off on software quality assurance.
 <br />
 
 <h2>Concepts</h2>
