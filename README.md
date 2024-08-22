@@ -6,11 +6,12 @@ In this project, I will walkthrough my responsibilities as a Software QA Enginee
 
 <h2>Concepts</h2>
 
-- <b>IP Addresses</b>
-- <b>DNS</b>
-- <b>DHCP</b>
-- <b>Post Delployment Configuration</b> 
-- <b>Router & Remote Access</b>
+- <b>Functional Testing</b>
+- <b>Usability Testing</b>
+- <b>Regression Testing</b>
+- <b>Smoke Testing</b>
+- <b>API Testing</b>
+- <b>Executing Test Cases and Bug Reports</b>
 
 <h2>Languages and Utilities Used</h2>
 
