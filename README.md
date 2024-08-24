@@ -48,7 +48,7 @@ Start Regression testing by executing up to 60 test cases across other test case
 <img src="https://i.imgur.com/m47ArW2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Reproduce all bugs to make sure that :  <br/>
+Performed bug triage to ensure the completeness of the bug report.Tracked the logs while executing the bugs as well.:  <br/>
 <img src="https://i.imgur.com/cCWMTG4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/iyicbsA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
