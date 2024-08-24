@@ -30,7 +30,7 @@ In this project, I will walkthrough my responsibilities as a Software QA Enginee
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Installing Windows Server 2022 and Creating an Administrator account: <br/>
+Created a checklist for the app's main functionality, focusing on accessing the user's account and tracking daily user activity. Then, I conducted a Smoke Test with the intent of creating bug tickets in Jira if any checks failed: <br/>
 <img src="https://i.imgur.com/CII5ybK.png" height="80%" width="80%" alt="Administrator Account"/>
 <img src="https://i.imgur.com/6TJinUM.png" height="80%" width="80%" alt="Administrator Account"/>
 <br />
