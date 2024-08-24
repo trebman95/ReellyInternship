@@ -27,45 +27,30 @@ In this project, I will walkthrough my responsibilities as a Software QA Enginee
 - <b>Safari Version 5.1.7</b>
 - <b>Chrome version 107.0.5304.87</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Created a checklist for the app's main functionality, focusing on accessing the user's account and tracking daily user activity. Then, I conducted a Smoke Test with the intent of creating bug tickets in Jira if any checks failed: <br/>
-<img src="https://i.imgur.com/CII5ybK.png" height="80%" width="80%" alt="Administrator Account"/>
-<img src="https://i.imgur.com/6TJinUM.png" height="80%" width="80%" alt="Administrator Account"/>
+<img src="https://i.imgur.com/kC8K0Ri.png" height="80%" width="80%" alt="Administrator Account"/>
+<img src="https://i.imgur.com/5kIMUl8.png" height="80%" width="80%" alt="Administrator Account"/>
 <br />
 <br />
-Change adapters on the network and setting up the IP addressing on the IPv4 of the Internal network:  <br/>
-<img src="https://i.imgur.com/vakD4lK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Began the test case execution using TestRail. Created new test runs and select the proper status for each test case :  <br/>
+<img src="https://i.imgur.com/YrAXoo9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Installing Active Director Domain Services from the Windows Server Manager: <br/>
-<img src="https://i.imgur.com/7qMx93A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created a minimum of 15 test cases for any of the features. Consisting of positive and negative test cases: <br/>
+<img src="https://i.imgur.com/87eGn4j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Post Deployment Configuration to promote the computer to a domain:  <br/>
+Start Regression testing by executing up to 60 test cases across other test cases that we created from my team and corrected any of my test cases that were in the "Retest" status from my team :  <br/>
 <img src="https://i.imgur.com/iH59Sac.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Ss9lA9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating a new user for the organization unit and Domain Admin account:  <br/>
+Reproduce all bugs to make sure that :  <br/>
 <img src="https://i.imgur.com/cCWMTG4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/iyicbsA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Installing routing, remote access, and NAT:  <br/>
-<img src="https://i.imgur.com/GltoQx5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ppNaTWY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Setting up a DHCP server on the Domain Controller and creating a scope on the DHCP of server with an IP Address range:  <br/>
-<img src="https://i.imgur.com/UcCLSQc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/4jQrTnw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Adding an IP address to the router and dfficially setting up the DNS Servers:  <br/>
-<img src="https://i.imgur.com/TS9kpes.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/0BwwJwU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Using ChromeDev Tools to analyze API Request and reporting any bug reports to the Dev team for review:  <br/>
