@@ -45,8 +45,7 @@ Created a minimum of 15 test cases for any of the features. Consisting of positi
 <br />
 <br />
 Start Regression testing by executing up to 60 test cases across other test cases that we created from my team and corrected any of my test cases that were in the "Retest" status from my team :  <br/>
-<img src="https://i.imgur.com/iH59Sac.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Ss9lA9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m47ArW2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Reproduce all bugs to make sure that :  <br/>
