@@ -41,7 +41,7 @@ Began the test case execution using TestRail. Created new test runs and select t
 <br />
 <br />
 Created a minimum of 15 test cases for any of the features. Consisting of positive and negative test cases: <br/>
-<img src="https://i.imgur.com/iv0VkEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xBHqyXu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Start Regression testing by executing up to 60 test cases across other test cases that we created from my team and corrected any of my test cases that were in the "Retest" status from my team :  <br/>
