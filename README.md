@@ -68,9 +68,9 @@ Adding an IP address to the router and dfficially setting up the DNS Servers:  <
 <img src="https://i.imgur.com/0BwwJwU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Source code for the Powershell script from a given zip file to add all accounts into the active directory:  <br/>
+Using ChromeDev Tools to analyze API Request and reporting any bug reports to the Dev team for review:  <br/>
 <img src="https://i.imgur.com/PEClP7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/MbiBzLP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BXjpnsv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
