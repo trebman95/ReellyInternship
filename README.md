@@ -69,7 +69,7 @@ Adding an IP address to the router and dfficially setting up the DNS Servers:  <
 <br />
 <br />
 Source code for the Powershell script from a given zip file to add all accounts into the active directory:  <br/>
-<img src="https://i.imgur.com/kXHbeFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PEClP7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/MbiBzLP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
