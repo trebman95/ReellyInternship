@@ -3,6 +3,7 @@
 <h2>Description</h2>
 In this project, I will walkthrough my responsibilities as a Software QA Engineer for Reelly. Performing functional, UI, smoke and regression testing. Also participating in daily stand-ups and sprint planning using Agile methodologies. Reelly is a web/mobile app that consolidates Dubai developer projects, enabling agents to quickly create personalized property offers and track buyer behavior analytics. Executing test cases and tracking bug issues in Jira was a very interesting task to learn as I know that they will be very essential skills to know while starting off in software quality assurance.
 <img src="https://i.imgur.com/R8pSLW1.png" height="80%" width="80%" alt="Administrator Account"/>
+<img src="https://i.imgur.com/YML9xny.png" height="80%" width="80%" alt="Administrator Account"/>
 <br />
 
 <h2>Concepts</h2>
