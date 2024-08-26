@@ -21,6 +21,7 @@ In this project, I will walkthrough my responsibilities as a Software QA Enginee
 - <b>Google Docs</b> 
 - <b>TestRail</b> 
 - <b>Chrome DevTools</b>
+- <b>Android Studio</b>
 
 <h2>Environments Used </h2>
 
