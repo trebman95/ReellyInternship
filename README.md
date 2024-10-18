@@ -13,7 +13,9 @@ In this project, I will walkthrough my responsibilities as a Software QA Enginee
 - <b>Regression Testing</b>
 - <b>Smoke Testing</b>
 - <b>API Testing</b>
-- <b>Executing Test Cases and Bug Reports</b>
+- <b>Test Case Design</b>
+- <b>Test Execution</b>
+- <b>Bug Reporting</b>
 
 <h2>Languages and Utilities Used</h2>
 
